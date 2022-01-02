@@ -1,1 +1,1 @@
-https://kirfey.github.io/rsschool-cv/cv
+https://kirfey.github.io/rsschool-cv/
